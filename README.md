@@ -3,15 +3,6 @@
 > **OOP Project — Group 17 | BITS Pilani**  
 > Track 2: AI Algorithms + Advanced Java Programming
 
----
-
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Aryan Pawar | Recommendation API (TF-IDF + Cosine Similarity) |
-| Aditya Goyal | Fraud Detection API (Rule Engine + K-Means) |
-| Bharat Nair | RAG Assistant API (LangChain4j + Gemini) |
 
 ---
 
