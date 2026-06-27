@@ -1,0 +1,11 @@
+eventId,title,description,category,tags,venue,date,time,capacity,price
+e_001,Battle of Bands,Live rock music competition electric guitars drums bass loud stage performance,Music,"rock,live,electric-guitar,competition",Main Stage,2025-11-14,18:00,500,0
+e_002,Sufi Night,Sufi classical devotional music live performance soulful vocals traditional instruments,Music,"sufi,classical,devotional,live",Amphitheatre,2025-11-14,20:00,300,0
+e_003,Bhangra Blast,High energy Bhangra dance competition traditional Punjabi dhol group performance,Dance,"bhangra,dance,competition,traditional",Dance Arena,2025-11-15,17:00,400,0
+e_004,Stand Up Comedy Night,Stand up comedy open mic humor jokes laughter entertainment,Comedy,"comedy,humor,stand-up,entertainment",Cultural Hall,2025-11-14,21:00,200,0
+e_005,Hackathon 24H,24-hour coding hackathon programming technology innovation software development,Tech,"coding,hackathon,programming,innovation",Computer Lab,2025-11-14,09:00,100,0
+e_006,Classical Dance Showcase,Bharatanatyam Kathak classical Indian dance solo group performance traditional,Dance,"classical,dance,bharatanatyam,kathak",Amphitheatre,2025-11-15,16:00,300,0
+e_007,DJ Night BITS,DJ electronic dance music EDM rave night fest closing party,Music,"dj,edm,electronic,party,rave",Main Stage,2025-11-16,22:00,800,0
+e_008,Photography Competition,Photography art visual storytelling nature portrait composition contest,Art,"photography,art,visual,contest",Exhibition Hall,2025-11-15,10:00,150,0
+e_009,Business Quiz,Business economics finance trivia quiz competition team knowledge,Quiz,"quiz,business,economics,team",Seminar Hall,2025-11-15,14:00,60,0
+e_010,Science Expo,Science experiments innovation technology research display robotics,Tech,"science,robotics,innovation,research",Sports Complex,2025-11-16,11:00,500,0

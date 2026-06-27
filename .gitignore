@@ -1,0 +1,48 @@
+# ── Maven ──────────────────────────────
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ── IntelliJ IDEA ──────────────────────
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# ── Eclipse ────────────────────────────
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# ── VS Code ────────────────────────────
+.vscode/
+
+# ── OS Files ───────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Environment & Secrets ──────────────
+# NEVER commit API keys to GitHub
+.env
+*.env
+application-local.properties
+application-secret.properties
+
+# ── Serialized cache files ─────────────
+*.ser
+tfidf-cache.dat
+
+# ── Log files ──────────────────────────
+*.log
+logs/
+
+# ── Compiled output ────────────────────
+*.class
