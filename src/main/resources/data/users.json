@@ -1,0 +1,222 @@
+[
+  {
+    "userId": "u_001",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@bits.ac.in",
+    "age": 20,
+    "year": 2,
+    "branch": "Computer Science",
+    "browsingHistory": ["e_017", "e_018", "e_019", "e_020", "e_015", "e_049"],
+    "registeredEvents": ["e_017", "e_020"],
+    "categoryAffinityScores": {"Tech": 9, "Science": 7, "Quiz": 5, "Gaming": 4}
+  },
+  {
+    "userId": "u_002",
+    "name": "Priya Nair",
+    "email": "priya.nair@bits.ac.in",
+    "age": 21,
+    "year": 3,
+    "branch": "Electronics",
+    "browsingHistory": ["e_006", "e_007", "e_008", "e_009", "e_001", "e_003"],
+    "registeredEvents": ["e_006", "e_009"],
+    "categoryAffinityScores": {"Dance": 9, "Music": 8, "Fashion": 5, "Cultural": 6}
+  },
+  {
+    "userId": "u_003",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@bits.ac.in",
+    "age": 19,
+    "year": 1,
+    "branch": "Mechanical",
+    "browsingHistory": ["e_001", "e_002", "e_003", "e_004", "e_005", "e_044"],
+    "registeredEvents": ["e_001", "e_003"],
+    "categoryAffinityScores": {"Music": 10, "Comedy": 6, "Dance": 4, "Entertainment": 5}
+  },
+  {
+    "userId": "u_004",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@bits.ac.in",
+    "age": 22,
+    "year": 4,
+    "branch": "Civil",
+    "browsingHistory": ["e_021", "e_022", "e_023", "e_024", "e_039", "e_040"],
+    "registeredEvents": ["e_021", "e_022"],
+    "categoryAffinityScores": {"Art": 10, "Photography": 8, "Cultural": 5, "Fashion": 4}
+  },
+  {
+    "userId": "u_005",
+    "name": "Karan Mehta",
+    "email": "karan.mehta@bits.ac.in",
+    "age": 20,
+    "year": 2,
+    "branch": "Chemical",
+    "browsingHistory": ["e_012", "e_013", "e_014", "e_015", "e_028", "e_030"],
+    "registeredEvents": ["e_012", "e_014"],
+    "categoryAffinityScores": {"Debate": 9, "Quiz": 8, "Literary": 7, "Tech": 5}
+  },
+  {
+    "userId": "u_006",
+    "name": "Aisha Khan",
+    "email": "aisha.khan@bits.ac.in",
+    "age": 21,
+    "year": 3,
+    "branch": "Biotechnology",
+    "browsingHistory": ["e_025", "e_026", "e_027", "e_044", "e_010", "e_011"],
+    "registeredEvents": ["e_025", "e_044"],
+    "categoryAffinityScores": {"Comedy": 9, "Drama": 7, "Entertainment": 8, "Literary": 4}
+  },
+  {
+    "userId": "u_007",
+    "name": "Vikram Patel",
+    "email": "vikram.patel@bits.ac.in",
+    "age": 22,
+    "year": 4,
+    "branch": "Computer Science",
+    "browsingHistory": ["e_032", "e_033", "e_034", "e_035", "e_031", "e_042"],
+    "registeredEvents": ["e_033", "e_042"],
+    "categoryAffinityScores": {"Sports": 10, "Gaming": 8, "Adventure": 6, "Tech": 3}
+  },
+  {
+    "userId": "u_008",
+    "name": "Divya Krishnan",
+    "email": "divya.krishnan@bits.ac.in",
+    "age": 20,
+    "year": 2,
+    "branch": "Physics",
+    "browsingHistory": ["e_047", "e_048", "e_046", "e_039", "e_021", "e_049"],
+    "registeredEvents": ["e_047", "e_048"],
+    "categoryAffinityScores": {"Wellness": 9, "Art": 8, "Science": 7, "Photography": 6}
+  },
+  {
+    "userId": "u_009",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@bits.ac.in",
+    "age": 19,
+    "year": 1,
+    "branch": "Mathematics",
+    "browsingHistory": ["e_017", "e_042", "e_019", "e_020", "e_016", "e_015"],
+    "registeredEvents": ["e_042"],
+    "categoryAffinityScores": {"Gaming": 9, "Tech": 8, "Quiz": 6, "Entertainment": 5}
+  },
+  {
+    "userId": "u_010",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@bits.ac.in",
+    "age": 23,
+    "year": 5,
+    "branch": "Economics",
+    "browsingHistory": ["e_029", "e_030", "e_028", "e_002", "e_050", "e_007"],
+    "registeredEvents": ["e_029", "e_030"],
+    "categoryAffinityScores": {"Literary": 10, "Music": 7, "Cultural": 8, "Art": 5}
+  },
+  {
+    "userId": "u_011",
+    "name": "Siddharth Joshi",
+    "email": "siddharth.joshi@bits.ac.in",
+    "age": 21,
+    "year": 3,
+    "branch": "Electrical",
+    "browsingHistory": ["e_036", "e_037", "e_038", "e_008", "e_003", "e_006"],
+    "registeredEvents": ["e_036", "e_003"],
+    "categoryAffinityScores": {"Fashion": 8, "Dance": 7, "Music": 6, "Entertainment": 5}
+  },
+  {
+    "userId": "u_012",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@bits.ac.in",
+    "age": 20,
+    "year": 2,
+    "branch": "Computer Science",
+    "browsingHistory": ["e_041", "e_037", "e_016", "e_042", "e_025", "e_027"],
+    "registeredEvents": ["e_041", "e_037"],
+    "categoryAffinityScores": {"Anime": 10, "Gaming": 7, "Comedy": 6, "Pop-Culture": 8}
+  },
+  {
+    "userId": "u_013",
+    "name": "Nikhil Sharma",
+    "email": "nikhil.sharma@bits.ac.in",
+    "age": 22,
+    "year": 4,
+    "branch": "Management",
+    "browsingHistory": ["e_014", "e_012", "e_038", "e_045", "e_050", "e_013"],
+    "registeredEvents": ["e_014", "e_038"],
+    "categoryAffinityScores": {"Business": 9, "Debate": 7, "Fashion": 6, "Cultural": 5}
+  },
+  {
+    "userId": "u_014",
+    "name": "Pooja Agarwal",
+    "email": "pooja.agarwal@bits.ac.in",
+    "age": 19,
+    "year": 1,
+    "branch": "Biotechnology",
+    "browsingHistory": ["e_045", "e_043", "e_031", "e_044", "e_010", "e_024"],
+    "registeredEvents": ["e_043", "e_044"],
+    "categoryAffinityScores": {"Food": 8, "Adventure": 7, "Entertainment": 6, "Cultural": 5}
+  },
+  {
+    "userId": "u_015",
+    "name": "Harsh Malhotra",
+    "email": "harsh.malhotra@bits.ac.in",
+    "age": 21,
+    "year": 3,
+    "branch": "Mechanical",
+    "browsingHistory": ["e_018", "e_032", "e_033", "e_049", "e_031", "e_035"],
+    "registeredEvents": ["e_018", "e_032"],
+    "categoryAffinityScores": {"Tech": 8, "Sports": 9, "Science": 7, "Adventure": 6}
+  },
+  {
+    "userId": "u_016",
+    "name": "Ritu Bansal",
+    "email": "ritu.bansal@bits.ac.in",
+    "age": 20,
+    "year": 2,
+    "branch": "Economics",
+    "browsingHistory": ["e_007", "e_001", "e_003", "e_025", "e_026", "e_044"],
+    "registeredEvents": ["e_007", "e_025"],
+    "categoryAffinityScores": {"Music": 9, "Comedy": 8, "Entertainment": 7, "Dance": 4}
+  },
+  {
+    "userId": "u_017",
+    "name": "Aakash Tiwari",
+    "email": "aakash.tiwari@bits.ac.in",
+    "age": 22,
+    "year": 4,
+    "branch": "Physics",
+    "browsingHistory": ["e_015", "e_049", "e_018", "e_017", "e_035", "e_020"],
+    "registeredEvents": ["e_015", "e_018"],
+    "categoryAffinityScores": {"Science": 10, "Tech": 9, "Math": 8, "Chess": 6}
+  },
+  {
+    "userId": "u_018",
+    "name": "Kavya Menon",
+    "email": "kavya.menon@bits.ac.in",
+    "age": 21,
+    "year": 3,
+    "branch": "Civil",
+    "browsingHistory": ["e_006", "e_007", "e_050", "e_002", "e_011", "e_010"],
+    "registeredEvents": ["e_006", "e_050"],
+    "categoryAffinityScores": {"Dance": 10, "Cultural": 9, "Music": 7, "Drama": 6}
+  },
+  {
+    "userId": "u_019",
+    "name": "Sameer Qureshi",
+    "email": "sameer.qureshi@bits.ac.in",
+    "age": 19,
+    "year": 1,
+    "branch": "Computer Science",
+    "browsingHistory": ["e_012", "e_013", "e_028", "e_029", "e_030", "e_016"],
+    "registeredEvents": ["e_028", "e_030"],
+    "categoryAffinityScores": {"Literary": 9, "Debate": 8, "Creative-Writing": 7, "Pop-Culture": 5}
+  },
+  {
+    "userId": "u_020",
+    "name": "Tanvi Desai",
+    "email": "tanvi.desai@bits.ac.in",
+    "age": 23,
+    "year": 5,
+    "branch": "Management",
+    "browsingHistory": ["e_022", "e_023", "e_021", "e_040", "e_039", "e_048"],
+    "registeredEvents": ["e_022", "e_040"],
+    "categoryAffinityScores": {"Art": 10, "Photography": 8, "Design": 9, "Crafts": 7}
+  }
+]
