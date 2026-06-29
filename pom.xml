@@ -36,14 +36,6 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!-- ── Spring Boot DevTools (hot reload during dev) ── -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-devtools</artifactId>
-            <scope>runtime</scope>
-            <optional>true</optional>
-        </dependency>
-
         <!-- ── Swagger / OpenAPI UI ── -->
         <dependency>
             <groupId>org.springdoc</groupId>
@@ -72,11 +64,11 @@
         </dependency>
 
         <!-- ── LangChain4j Google Gemini Integration ── -->
-        <dependency>
+        <!-- <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-google-ai-gemini</artifactId>
             <version>${langchain4j.version}</version>
-        </dependency>
+        </dependency> -->
 
         <!-- ── JUnit 5 (unit testing) ── -->
         <dependency>

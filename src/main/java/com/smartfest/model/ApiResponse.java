@@ -36,14 +36,16 @@ public class ApiResponse<T> {
         response.message           = message;
         response.data              = data;
         response.processingTimeMs  = processingTimeMs;
+        response.apiVersion        = "1.0";
         return response;
     }
 
     public static <T> ApiResponse<T> error(String message) {
         ApiResponse<T> response = new ApiResponse<>();
-        response.success = false;
-        response.message = message;
-        response.data    = null;
+        response.success    = false;
+        response.message    = message;
+        response.data       = null;
+        response.apiVersion = "1.0";
         return response;
     }
 

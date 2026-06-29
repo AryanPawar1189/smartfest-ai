@@ -14,7 +14,7 @@ import java.util.List;
 public class Event implements Serializable {
 
     private static final long serialVersionUID = 1L;
-
+    
     private String eventId;
     private String title;
     private String description;     // raw text used for TF-IDF vectorisation

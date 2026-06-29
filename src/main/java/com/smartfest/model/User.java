@@ -17,6 +17,9 @@ public class User {
     private String userId;
     private String name;
     private String email;
+    private int age;
+    private int year;
+    private String branch;
     private List<String> browsingHistory;       // list of eventIds the user has viewed
     private List<String> registeredEvents;      // events the user is already registered for
     private Map<String, Integer> categoryAffinityScores; // e.g. {"Music": 8, "Dance": 3}
@@ -57,6 +60,15 @@ public class User {
     public Map<String, Integer> getCategoryAffinityScores()          { return categoryAffinityScores; }
     public void setCategoryAffinityScores(Map<String, Integer> s)    { this.categoryAffinityScores = s; }
 
+    public int getAge() { return age; }
+    public void setAge(int age) { this.age = age; }
+    
+    public int getYear() { return year; }
+    public void setYear(int year) { this.year = year; }
+    
+    public String getBranch() { return branch; }
+    public void setBranch(String branch) { this.branch = branch; }
+    
     @Override
     public String toString() {
         return "User{id='" + userId + "', name='" + name + "'}";
